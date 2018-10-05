@@ -1,0 +1,23 @@
+body {
+    color: green;
+}
+
+body p {
+    color: black;
+}
+
+#the-heading {
+    color: purple;
+}
+
+.blue-text {
+    color: blue;
+}
+
+p {
+    color: red;
+}
+
+h1, p {
+    background: pink;
+}
